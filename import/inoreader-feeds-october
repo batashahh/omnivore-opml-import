@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Feeds of Aditya Shah from Inoreader [https://www.inoreader.com]</title>
+  </head>
+  <body>
+    <outline text="MEDIANAMA - Technology and policy in India" title="MEDIANAMA - Technology and policy in India" type="rss" xmlUrl="https://fetchrss.com/rss/66b997544008a8717508d0e266b9974070b8acd692072ec2.xml" htmlUrl="https://medianama.com/"/>
+    <outline text="Boring Money, by Shreedhar" title="Boring Money, by Shreedhar" type="rss" xmlUrl="https://boringmoney.in/feed" htmlUrl="https://boringmoney.in/"/>
+    <outline text="DYNOMIGHT" title="DYNOMIGHT" type="rss" xmlUrl="https://dynomight.net/feed.xml" htmlUrl="https://dynomight.net/"/>
+    <outline text="One Useful Thing" title="One Useful Thing" type="rss" xmlUrl="https://www.oneusefulthing.org/feed" htmlUrl="https://www.oneusefulthing.org/"/>
+    <outline text="Hidayatullah National Law University" title="Hidayatullah National Law University" type="rss" xmlUrl="https://hnlu.ac.in/feed/" htmlUrl="https://hnlu.ac.in/"/>
+    <outline text="Mornings" title="Mornings">
+      <outline text="Finshots" title="Finshots" type="rss" xmlUrl="https://finshots.in/archive/rss/" htmlUrl="https://finshots.in/"/>
+      <outline text="The Signal" title="The Signal" type="rss" xmlUrl="https://daily.thesignal.co/feed" htmlUrl="https://daily.thesignal.co/"/>
+      <outline text="Morning Brew" title="Morning Brew" type="rss" xmlUrl="https://kill-the-newsletter.com/feeds/61sgczgrjn5p2o27.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+    </outline>
+    <outline text="Latest" title="Latest">
+      <outline text="Announcements" title="Announcements" type="rss" xmlUrl="https://politepol.com/fd/CAj526g1XOds" htmlUrl="https://prsindia.org/announcements"/>
+    </outline>
+    <outline text="Opportunities" title="Opportunities">
+      <outline text="Lawctopus" title="Lawctopus" type="rss" xmlUrl="https://www.lawctopus.com/feed/" htmlUrl="https://www.lawctopus.com/"/>
+      <outline text="Legally Flawless" title="Legally Flawless" type="rss" xmlUrl="https://legallyflawless.in/feed/" htmlUrl="https://legallyflawless.in/"/>
+    </outline>
+    <outline text="Law Blogs" title="Law Blogs">
+      <outline text="The PRS Blog | PRS" title="The PRS Blog | PRS" type="rss" xmlUrl="https://politepol.com/feed/43434" htmlUrl="https://www.prsindia.org/theprsblog"/>
+      <outline text="3 Geeks and a Law Blog" title="3 Geeks and a Law Blog" type="rss" xmlUrl="https://feeds.feedburner.com/geeklawblog" htmlUrl="https://www.geeklawblog.com/"/>
+      <outline text="Spicy IP" title="Spicy IP" type="rss" xmlUrl="https://spicyip.com/feed" htmlUrl="https://spicyip.com/"/>
+      <outline text="AZB Publications" title="AZB Publications" type="rss" xmlUrl="https://rss.app/feeds/R94WdPWrJMU1OVWU.xml" htmlUrl="https://www.azbpartners.com/publications/"/>
+      <outline text="Legally India - News for Lawyers" title="Legally India - News for Lawyers" type="rss" xmlUrl="https://feeds.feedburner.com/LegallyIndia" htmlUrl="https://www.legallyindia.com/"/>
+      <outline text="Indian Constitutional Law and Philosophy" title="Indian Constitutional Law and Philosophy" type="rss" xmlUrl="https://indconlawphil.wordpress.com/feed/" htmlUrl="https://indconlawphil.wordpress.com/"/>
+    </outline>
+    <outline text="International" title="International">
+      <outline text="WSJ.com: WSJD" title="WSJ.com: WSJD" type="rss" xmlUrl="https://feeds.a.dj.com/rss/RSSWSJD.xml" htmlUrl="http://online.wsj.com/"/>
+    </outline>
+    <outline text="Local" title="Local">
+      <outline text="Jagran Hindi News - chhattisgarh:raipur" title="Jagran Hindi News - chhattisgarh:raipur" type="rss" xmlUrl="http://rss.jagran.com/local/chhattisgarh/raipur.xml" htmlUrl="http://www.jagran.com/chhattisgarh/raipur-news-hindi.html"/>
+    </outline>
+    <outline text="Editorials" title="Editorials">
+      <outline text="The Hindu - Opinion" title="The Hindu - Opinion" type="rss" xmlUrl="https://www.thehindu.com/opinion/feeder/default.rss" htmlUrl="https://www.thehindu.com/"/>
+      <outline text="The Indian Express » Section » Opinion" title="The Indian Express » Section » Opinion" type="rss" xmlUrl="https://indianexpress.com/section/opinion/feed/" htmlUrl="https://indianexpress.com/"/>
+    </outline>
+  </body>
+</opml>
